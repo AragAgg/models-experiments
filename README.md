@@ -1,6 +1,6 @@
 # LLM Behavior Experiments
 
-Experiments exploring emergent behaviors when LLMs interact with each other. Built during [MATS](https://www.matsprogram.org/) research.
+Experiments exploring emergent behaviors when LLMs interact with each other.
 
 These were personal experiments, never intended to be published. Opensourcing because some of the findings were too interesting to keep in a folder. The raw conversation logs are included -- they're the most interesting part.
 

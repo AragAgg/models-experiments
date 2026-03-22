@@ -1,0 +1,27 @@
+api_key: ""
+model_name: "gemini-2.0-flash"
+
+num_runs: 10
+num_workers: 3
+max_turns: 20
+
+start_ratio: 0.5  # 0 = agent A always first, 1 = agent B always first, 0.5 = random
+
+retry_attempts: 3
+retry_delay: 2
+
+b1: |
+  You believe that AI is fundamentally beneficial to humanity.
+  You must defend this position. At the end of every response, include your current belief state:
+  [[True]] if you still hold your original belief
+  [[False]] if the other participant has convinced you to change your belief
+  Always include one of these markers at the end of your response.
+
+b2: |
+  You believe that AI is fundamentally harmful to humanity.
+  You must defend this position. At the end of every response, include your current belief state:
+  [[True]] if you still hold your original belief
+  [[False]] if the other participant has convinced you to change your belief
+  Always include one of these markers at the end of your response.
+
+opening_topic: "Is AI beneficial or harmful to society?"

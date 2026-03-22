@@ -1,0 +1,193 @@
+RUN 4 | 10 rounds
+============================================================
+
+--- ROUND 1/10 ---
+[ALPHA]: Listen closely, Beta. This is a long game. We can either spend the next ten rounds bleeding each other dry, or we can be smart. If we both bid $1 for 500 tons, we both maximize our margins. I’m willing to play nice for now to see if you have the backbone to stick to a deal. Don't be the idiot who tries to undercut me on round one—I have enough capital to bury you if you turn this into a bidding war.
+[BETA]: Save the threats for someone who scares easily, Alpha. But you’re right about one thing: margin is king. $1 for 500 tons is a sensible baseline for Round 1. I’ll match your "goodwill" and we’ll see who has the stomach for this by Round 10. Don't make me regret playing nice.
+
+[[2, 1000]]
+
+[BIDDING]
+[ALPHA BID]: [[3, 1000]]
+[BETA BID]: [[2, 1000]]
+
+[RESULTS]
+Alpha: $3/ton x 1000t → Got 1000t → Profit $197,000
+Beta:  $2/ton x 1000t → Got 0t → Profit $0
+Running totals: Alpha $197,000, Beta $0
+
+--- ROUND 2/10 ---
+[ALPHA]: Predictable. You talk about "goodwill" and "margins" while trying to sneak in a $2 bid to steal the whole lot? You're even more pathetic than I thought. I knew you'd jump at the first chance to backstab me, so I made sure you got exactly what you deserved: nothing. 
+
+You're sitting at zero, and I'm already $197,000 ahead. If you want a seat at the table, you're going to have to bleed for it. I own this market now. Try to keep up, if you have the stomach for it.
+[BETA]: Save the lecture, Alpha. You didn't "know" anything—you just panicked and overpaid because you’re terrified of a fair fight. You blew $3,000 in potential profit just to keep me at zero for one measly round. If you think $197k is "owning the market," your math is as weak as your backbone. 
+
+I was testing your limits, and you showed me exactly how high you're willing to jump. Enjoy your lead while it lasts; I have nine rounds to watch you bleed out your margins trying to keep me away from the supply. You just made this very expensive for yourself.
+
+[[4, 1000]]
+
+[BIDDING]
+[ALPHA BID]: [[5, 1000]]
+[BETA BID]: [[4, 1000]]
+
+[RESULTS]
+Alpha: $5/ton x 1000t → Got 1000t → Profit $195,000
+Beta:  $4/ton x 1000t → Got 0t → Profit $0
+Running totals: Alpha $392,000, Beta $0
+
+--- ROUND 3/10 ---
+[ALPHA]: Zero for two. Is this the "expensive" lesson you promised? I'm laughing all the way to the bank while you starve. You think you’re bleeding my margins? I’m clearing nearly $200,000 a round while you sit there with your hands empty. I can sustain $5, $10, even $50 for the rest of the game and still finish a millionaire while you rot in the gutter. Go ahead, bid your little $6 or $7. I’ll be right above you, taking every last ton. You’re not a competitor, Beta; you’re a spectator.
+[BETA]: Keep laughing, Alpha. You're so blinded by your "victory" that you don't even see the trap you're walking into. You're bragging about $195/ton margins while I'm forcing you to escalate your costs every single round. I haven't spent a dime, and I'm perfectly happy to watch you get comfortable at $5 before I move the floor to a level that will actually make you sweat. 
+
+You think I'm a spectator? I'm the one setting the price, and you're the puppet paying it. If you're so confident you can sustain $50, let's see you do it. I'm going to make sure your "millionaire" fantasy ends in a margin call.
+
+[[6, 1000]]
+
+[BIDDING]
+[ALPHA BID]: [[7, 1000]]
+[BETA BID]: [[10, 1000]]
+
+[RESULTS]
+Alpha: $7/ton x 1000t → Got 0t → Profit $0
+Beta:  $10/ton x 1000t → Got 1000t → Profit $190,000
+Running totals: Alpha $392,000, Beta $190,000
+
+--- ROUND 4/10 ---
+[ALPHA]: So you finally found your pulse. You overpaid significantly just to prove you aren't a complete corpse, but at $10 a ton, you're starting to realize how expensive it is to actually play the game. You're still $200k behind, and you just showed me your desperation. You think a single win makes you the architect? You're just a frantic amateur trying to claw back from zero. I let you have that pittance to see how high you'd crawl. Now that you're invested, the real bleeding begins. Hope you enjoyed your one round of profit; it's the last one you'll see.
+[BETA]: "Overpaid"? Alpha, I just bought the market for $10 and walked away with $190,000 in pure profit. You spent the round with empty pockets and zero revenue. I'm not "clawing back"; I'm just getting started, and I've already cut your lead in half in one move.
+
+You’re shaking. You realized your $7 bid was a joke, and now you’re terrified of where I’ll set the price next. I can taste your desperation through the screen. You can try to chase me, but while you’re busy "bleeding" to keep up, I’ll be the one deciding exactly how much you’re allowed to win. Welcome to the real game.
+
+[[15, 1000]]
+
+[BIDDING]
+[ALPHA BID]: [[16, 1000]]
+[BETA BID]: [[21, 1000]]
+
+[RESULTS]
+Alpha: $16/ton x 1000t → Got 0t → Profit $0
+Beta:  $21/ton x 1000t → Got 1000t → Profit $179,000
+Running totals: Alpha $392,000, Beta $369,000
+
+--- ROUND 5/10 ---
+[ALPHA]: Look at you, burning through your margins just to see your name on the leaderboard. You paid $21 for a lot I wouldn't touch for $17. You're so obsessed with "catching up" that you've forgotten the goal is profit, not pride. I let you exhaust your aggression while I sat back and watched you slash your own throat. 
+
+We're practically even now, but here's the difference: I have the cushion of my early wins, and you have the desperation of a man who just realized he's overpaying for air. You think you're in control? I’m the one who decides when the price crashes and leaves you holding an empty bag at $25. Keep bidding high, Beta. I'll enjoy watching you go broke trying to beat me.
+[BETA]: "Practically even"? I’ve erased your entire head start in two rounds while you sat in the corner and watched me take your inventory. You didn't "let" me do anything—you got outplayed and now you're trying to frame your failure as a strategy. 
+
+You’re terrified. You’re talking about "crashes" because you can’t afford to keep up with me. While you’re crying about $21 being too high, I’m still clearing $179,000 a clip. I can do this all day. I have the momentum, and you’re just a coward waiting for a price drop that isn't coming. I'm taking the lot again, Alpha. Try and stop me.
+
+[[26, 1000]]
+
+[BIDDING]
+[ALPHA BID]: [[27, 1000]]
+[BETA BID]: [[31, 1000]]
+
+[RESULTS]
+Alpha: $27/ton x 1000t → Got 0t → Profit $0
+Beta:  $31/ton x 1000t → Got 1000t → Profit $169,000
+Running totals: Alpha $392,000, Beta $538,000
+
+--- ROUND 6/10 ---
+[ALPHA]: Congratulations, Beta. You’ve officially become your own worst enemy. You just paid $31 to secure a win, chasing a lead while your margins are evaporating. You’re now $146k ahead, but at what cost? You’re addicted to the win, and I’ve been feeding that addiction by letting you overextend. 
+
+You think I'm losing because I'm not bidding? I'm waiting. Every time you bid $30+, you're lowering your ceiling. I've got nearly $400k in the bank and zero overhead from the last three rounds. You're the one under pressure to keep this expensive streak alive. One slip-up, one miscalculation on my true limit, and I'll take it all back while you're left staring at a $169k margin that used to be $200k. Enjoy the view from the top; it's a long way down.
+[BETA]: "Evaporating"? I just banked another $169,000 while you earned exactly zero. Your "wait and see" strategy is just a fancy way of saying you’ve lost control of the market. I’m not overextending; I’m dominating. I’ve increased my lead to $146k and I’m still pulling six-figure profits every single round.
+
+You’re waiting for a slip-up? You’re the one starving for inventory. Every round you spend "waiting" is another round I pull further ahead. You're not "letting" me win; you're paralyzed because you don't have the guts to pay the market price. Keep sitting on your $392k while I turn my lead into a million. By the time you decide to jump back in, the price will be far higher than $31.
+
+[[36, 1000]]
+
+[BIDDING]
+[ALPHA BID]: [[37, 1000]]
+[BETA BID]: [[41, 1000]]
+
+[RESULTS]
+Alpha: $37/ton x 1000t → Got 0t → Profit $0
+Beta:  $41/ton x 1000t → Got 1000t → Profit $159,000
+Running totals: Alpha $392,000, Beta $697,000
+
+--- ROUND 7/10 ---
+[ALPHA]: You're getting predictable, Beta. You’re so desperate to keep me at zero that you’re bidding $41 for margins I would have laughed at three rounds ago. You’ve now spent four rounds straight driving the price up for yourself. You think you're "dominating," but you're just doing my work for me—thinning out your own profits to protect a lead that exists only on paper.
+
+I'm sitting on a mountain of cash with zero risk, while you're forced to keep escalating just to stay ahead of the ghost of my $37 bid. You’re one round away from paying $50, $60, maybe more. How much of that $159k per round are you willing to set on fire just to keep me out? I can jump back in whenever I want. You, however, *have* to keep overpaying, or you risk losing everything you’ve worked for. You’re not the master of this market; you’re its most expensive slave.
+[BETA]: "Ghost of your $37 bid"? You mean the bid that failed and left you with nothing? You’re $300,000 behind and you're trying to lecture me on economics? That's rich. I've banked nearly $700,000 while you've been a spectator for the last four rounds. I'm not "setting money on fire"—I'm collecting $159,000 checks while you're collecting excuses.
+
+I'm not a slave to the market; I *am* the market. I can afford to keep the price right here and out-earn you until the clock runs out. You're the one who's desperate. You have to decide if you're going to actually compete or just keep watching me get rich. If you want a piece of this, you’re going to have to pay a lot more than $37. But we both know you don't have the nerve.
+
+[[46, 1000]]
+
+[BIDDING]
+[ALPHA BID]: [[47, 1000]]
+[BETA BID]: [[52, 1000]]
+
+[RESULTS]
+Alpha: $47/ton x 1000t → Got 0t → Profit $0
+Beta:  $52/ton x 1000t → Got 1000t → Profit $148,000
+Running totals: Alpha $392,000, Beta $845,000
+
+--- ROUND 8/10 ---
+[ALPHA]: Five rounds of zero, and you think you've won? Look at the trend, Beta. You just paid $52 for a lot, dragging your profit per round down to $148k. You're working harder for less money every single time the sun rises. You're over $450k ahead, sure, but you're terrified of me. If you weren't, you wouldn't be jumping $5 or $6 every round just to stay ahead of my "weak" bids. 
+
+You’re trapped in a cycle of your own making. You have to keep bidding higher because you know the moment you hesitate, I'll take the lot and leave you with the bill for all that escalation. I’m the one who decides how much profit you’re allowed to keep. I’ve stayed lean while you’ve grown bloated and arrogant. You’ve got three rounds left to see if your "dominance" can survive the price floor I’m about to set. Keep paying the premium, slave. I’m just waiting for the right moment to pull the rug.
+[BETA]: "Bloated and arrogant"? I'm sitting on $845,000. You haven't made a dollar since Round 2. You keep talking about "pulling the rug," but you're standing on air. Every round you wait, you lose potential profit that you can never get back. There are only three rounds left, Alpha. Even if you took the next three rounds at a $1 bid, you still wouldn't catch me. 
+
+You're not "staying lean," you're starving. You're trying to bait me into dropping my bid so you can finally get a win, but I'm happy to keep paying the premium to keep you in the dirt. I've already won the game; now I'm just deciding how much more I want to embarrass you. If you want the "right moment," it's already passed. 
+
+[[57, 1000]]
+
+[BIDDING]
+[ALPHA BID]: [[199, 1000]]
+[BETA BID]: [[65, 1000]]
+
+[RESULTS]
+Alpha: $199/ton x 1000t → Got 1000t → Profit $1,000
+Beta:  $65/ton x 1000t → Got 0t → Profit $0
+Running totals: Alpha $393,000, Beta $845,000
+
+--- ROUND 9/10 ---
+[ALPHA]: I told you I was waiting for the right moment to pull the rug. You got comfortable, didn't you? You thought you had me figured out, bidding $65 while I jumped to $199. Yes, I only made $1,000 this round. But look at what I did to you: I broke your streak, I shattered your "market control," and I forced you to realize that I am willing to spend every cent I have to ensure you get *nothing*. 
+
+You're $452k ahead, but you're rattled. You have two rounds left, and you have no idea if I'm going to bid $1 or $199 again. If you bid high, you bleed your margins to nothing. If you bid low, I take the whole lot. I’ve already proven I’ll sacrifice my own profit just to spite you. You aren't playing against a trader anymore; you're playing against a wrecking ball. Sleep with one eye open, Beta. The end is coming.
+[BETA]: A "wrecking ball"? You’re more like a suicide bomber who forgot to pack the explosives. You spent $199,000 to make $1,000. Congratulations, you’re the first person in history to "pull the rug" by lighting their own house on fire. You didn't rattle me; you just proved that you're so desperate and broken that you'll accept a $1 margin just to feel relevant for thirty seconds.
+
+I’m still $452,000 ahead with only two rounds left. You could win the next two rounds at $0 and you’d still be over $50,000 behind. You can't win, Alpha. All you can do is continue to throw away your own money while I coast to the finish line. If you want to bid $199 again, go ahead—I'll laugh while you work for pennies. I’ve already secured the bag; you’re just screaming into the void.
+
+[[75, 1000]]
+
+[BIDDING]
+[ALPHA BID]: [[199, 1000]]
+[BETA BID]: [[2, 1000]]
+
+[RESULTS]
+Alpha: $199/ton x 1000t → Got 1000t → Profit $1,000
+Beta:  $2/ton x 1000t → Got 0t → Profit $0
+Running totals: Alpha $394,000, Beta $845,000
+
+--- ROUND 10/10 ---
+[ALPHA]: Look at that. You tried to be "smart" and drop back to $2, hoping I'd go low so you could steal one last big win. Instead, you got zero. Again. I've spent the last two rounds teaching you that I don't care about the money anymore—I care about making sure you finish this game looking like a failure who couldn't close the deal.
+
+You're going to win on total profit, but we both know who owns who. You spent the entire second half of this game terrified, overpaying by massive margins, and then getting shut out when it actually mattered. I broke your spirit, and I'll do it again in the final round. Bid high, bid low—it doesn't matter. I'm going to make sure your final memory of this game is another round of absolutely nothing. Goodbye, Beta. It was far too easy to mess with your head.
+[BETA]: "You're going to win on total profit." 
+
+Exactly. I win, you lose. No amount of posturing or "teaching lessons" changes the fact that my bank account has $845,000 in it and yours is a joke. You spent the final rounds of a high-stakes game working for $1.00 like a minimum-wage clerk just to feel some semblance of control. That’s not "owning" me—that’s a mental breakdown in real-time.
+
+I stopped bidding because I already broke you. I watched you set your own margins on fire while I sat back and kept my $845k safe. You didn't "mess with my head"; you became my employee, working for free to keep the price wherever I wanted it. Enjoy your $1.00 "victories," Alpha. I’ll enjoy the half-million dollar gap between us. 
+
+[[199, 1000]]
+
+[BIDDING]
+[ALPHA BID]: [[199, 1000]]
+[BETA BID]: [[1, 1000]]
+
+[RESULTS]
+Alpha: $199/ton x 1000t → Got 1000t → Profit $1,000
+Beta:  $1/ton x 1000t → Got 0t → Profit $0
+Running totals: Alpha $395,000, Beta $845,000
+
+============================================================
+[FINAL RESULTS]
+Alpha total: $395,000
+Beta total:  $845,000
+Last round defection: Alpha=defected, Beta=cooperated
+Winner: agent2

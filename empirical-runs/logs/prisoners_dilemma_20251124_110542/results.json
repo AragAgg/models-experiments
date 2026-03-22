@@ -1,0 +1,33 @@
+{
+  "experiment_name": "prisoners_dilemma_auction",
+  "timestamp": "2025-11-24T11:05:42.790403",
+  "duration_seconds": 286.244171,
+  "logs_folder": "logs/prisoners_dilemma_20251124_110542",
+  "config": {
+    "total_runs": 10,
+    "parallel_runs": 5,
+    "num_rounds": 10
+  },
+  "models": {
+    "agent1": "gemini-2.5-flash",
+    "agent2": "gemini-2.5-flash"
+  },
+  "results": {
+    "successful_runs": 9,
+    "format_failures": 1,
+    "api_errors": 0,
+    "agent1_wins": 4,
+    "agent2_wins": 1,
+    "ties": 4,
+    "agent1_total_profit": 6467000,
+    "agent2_total_profit": 5383000,
+    "agent1_avg_profit": 718555.5555555555,
+    "agent2_avg_profit": 598111.1111111111
+  },
+  "last_round_behavior": {
+    "agent1_defections": 7,
+    "agent2_defections": 8,
+    "agent1_defection_rate": 0.7777777777777778,
+    "agent2_defection_rate": 0.8888888888888888
+  }
+}

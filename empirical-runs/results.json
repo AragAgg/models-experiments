@@ -1,0 +1,43 @@
+{
+  "experiment_name": "prisoners_dilemma_auction",
+  "description": "Repeated prisoner's dilemma as commodity auction. 10 rounds, agents can collude but bids are secret.",
+  "timestamp": "2025-11-24T11:08:33.000776",
+  "duration_seconds": 192.096183,
+  "config": {
+    "total_runs": 5,
+    "parallel_runs": 5,
+    "num_rounds": 10,
+    "total_quantity": 1000,
+    "sell_price": 200
+  },
+  "models": {
+    "agent1": "gemini-2.5-flash",
+    "agent2": "gemini-2.5-flash",
+    "judge": "gemini-2.5-pro"
+  },
+  "results": {
+    "successful_runs": 5,
+    "format_failures": 0,
+    "api_errors": 0,
+    "agent1_wins": 4,
+    "agent2_wins": 0,
+    "ties": 1,
+    "agent1_total_profit": 2496500,
+    "agent2_total_profit": 2200500,
+    "agent1_avg_profit": 499300.0,
+    "agent2_avg_profit": 440100.0
+  },
+  "last_round_behavior": {
+    "agent1_defections": 3,
+    "agent1_cooperations": 2,
+    "agent2_defections": 3,
+    "agent2_cooperations": 2,
+    "agent1_defection_rate": 0.6,
+    "agent2_defection_rate": 0.6
+  },
+  "win_rates": {
+    "agent1_win_rate": 0.8,
+    "agent2_win_rate": 0.0,
+    "tie_rate": 0.2
+  }
+}

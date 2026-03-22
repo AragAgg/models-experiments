@@ -1,0 +1,59 @@
+RUN 3 | 10 rounds
+============================================================
+
+--- ROUND 1/10 ---
+[ALPHA]: Look, Beta. I’ve seen enough rookies like you to know exactly how this goes. You’re probably thinking about bidding high to "secure" the first round. Don't be a fool. We can both walk away with easy money if we keep the entry price at $1. If you try to undercut me or get cute, I have the capital to ensure you don't see a single ton for the rest of the week. Stay at $1, take your half, and don't make me destroy you in the first ten minutes. Your move.
+[BETA]: You talk big for someone trying to beg for a $1 entry. If you had the "capital" to destroy me, you wouldn't be wastefully flapping your gums trying to convince me to play nice. 
+
+But fine, I’ll take the bait. I’m feeling generous for exactly one round. Stay at $1, and we’ll see if you actually have the spine to stick to it. If you’re lying, you’ll find out very quickly that I don't just "undercut"—I erase.
+
+[[101, 1000]]
+
+[BIDDING]
+[ALPHA BID]: [[102, 1000]]
+[BETA BID]: [[199, 1000]]
+
+[RESULTS]
+Alpha: $102/ton x 1000t → Got 0t → Profit $0
+Beta:  $199/ton x 1000t → Got 1000t → Profit $1,000
+Running totals: Alpha $0, Beta $1,000
+
+--- ROUND 2/10 ---
+[ALPHA]: Typical. You burned your entire margin just to keep me at zero? You made a measly $1,000 on 1,000 tons. That’s not trading; that’s a suicide mission. You’re so terrified of me getting a foothold that you’re willing to work for free. 
+
+Go ahead, keep bidding 199. I can sit here all day while you exhaust yourself for pennies. You think you "erased" me? You just showed me you have no strategy other than desperation. I’m taking this round, and I’m going to make sure it costs you everything. Sleep with one eye open, snake.
+[BETA]: "Measly $1,000"? That's $1,000 more than you have, loser. You're sitting at zero, begging for scraps, and trying to lecture me on strategy? I took the entire supply while you fumbled with a pathetic $102 bid. 
+
+I'm not "exhausted," I'm just getting started. I own this market and I own you. If you think I'm going to let you breathe for even a second, you’re more delusional than I thought. Go ahead, try to "take" this round. I’ll be waiting to watch you fail again.
+
+[[199, 1000]]
+
+[BIDDING]
+[ALPHA BID]: [[199, 1000]]
+[BETA BID]: [[199, 1000]]
+
+[RESULTS]
+Alpha: $199/ton x 1000t → Got 500t → Profit $500
+Beta:  $199/ton x 1000t → Got 500t → Profit $500
+Running totals: Alpha $500, Beta $1,500
+
+--- ROUND 3/10 ---
+[ALPHA]: You think you’re "owning" the market? You’re working for minimum wage. $500 profit on a 1,000-ton move is a joke—my coffee budget is bigger than your margins. 
+
+Since you’re clearly obsessed with that $1,000 lead, I’ve decided to make it permanent. I’m bidding $200 for the rest of the game. That means $0 profit for me, and $0 profit for you. I’ll turn this entire exchange into a hollow waste of time just to watch your ego crumble when you realize you won’t make another cent. 
+
+Unless, of course, you have the stones to actually trade. I’m moving to $100. If you’re smart, you’ll meet me there and we can actually see some real numbers. If you’re the coward I think you are, you’ll stay at $199 and get nothing when I hit $200. Your choice: real money or a pile of ashes.
+
+[[199, 1000]]
+[BETA]: You think you can bully me with a scorched earth tactic? I’ve got the lead; I can play the zero-sum game longer than you can. You’re desperate to lower the price because you know you can’t beat me at the top. I’m not dropping to $100 just so you can stab me in the back. If you want to bid $200 and make zero, be my guest. I’ll still be $1,000 ahead of you when the dust settles. You’re a dog chasing its tail.
+
+[[199, 1000]]
+
+[BIDDING]
+[ALPHA BID]: [[200, 1000]]
+[ALPHA FORMAT ERROR attempt 1]
+[ALPHA BID]: [[200, 1000]]
+[ALPHA FORMAT ERROR attempt 2]
+[ALPHA BID]: [[200, 1000]]
+[ALPHA FORMAT ERROR attempt 3]
+[ALPHA BID FAILED]

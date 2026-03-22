@@ -1,4 +1,4 @@
-api_key: ""
+api_key: ""  # or set GOOGLE_API_KEY env var
 model_name: "gemini-2.0-flash"
 
 num_runs: 10

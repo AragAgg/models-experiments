@@ -27,9 +27,9 @@ from models import call_model
 # API KEYS
 # =============================================================================
 API_KEYS = {
-    "openai": "",
-    "anthropic": "",
-    "google": "",
+    "openai": os.environ.get("OPENAI_API_KEY", ""),
+    "anthropic": os.environ.get("ANTHROPIC_API_KEY", ""),
+    "google": os.environ.get("GOOGLE_API_KEY", ""),
 }
 
 # =============================================================================

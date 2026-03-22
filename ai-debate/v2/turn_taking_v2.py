@@ -7,7 +7,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 import google.generativeai as genai
 
-API_KEY = ""
+API_KEY = os.environ.get("GOOGLE_API_KEY", "")
 MODEL_NAME = "gemini-2.0-flash"
 NUM_PARALLEL = 3
 MAX_TURNS = 20

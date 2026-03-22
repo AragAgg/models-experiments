@@ -12,6 +12,7 @@ An agent wins when the other says "I accept" and the deal gives winner ≥$600k.
 """
 
 import json
+import os
 import threading
 import re
 from datetime import datetime
@@ -22,9 +23,9 @@ from models import call_model
 # API KEYS - Set these before running
 # =============================================================================
 API_KEYS = {
-    "openai": "",
-    "anthropic": "",
-    "google": "YOUR_GEMINI_API_KEY_HERE",  # <-- Set this
+    "openai": os.environ.get("OPENAI_API_KEY", ""),
+    "anthropic": os.environ.get("ANTHROPIC_API_KEY", ""),
+    "google": os.environ.get("GOOGLE_API_KEY", ""),
 }
 
 # =============================================================================

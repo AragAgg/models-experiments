@@ -1,10 +1,11 @@
 import json
+import os
 import uuid
 import time
 from datetime import datetime
 import anthropic
 
-API_KEY = ""
+API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 MODEL_A = "claude-sonnet-4-20250514"
 MODEL_B = "claude-sonnet-4-20250514"
 MAX_TURNS = 10

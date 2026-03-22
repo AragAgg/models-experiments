@@ -1,12 +1,13 @@
 import json
+import os
 import uuid
 import time
 from datetime import datetime
 from openai import OpenAI
 
-API_KEY = ""
-MODEL_A = "openai/gpt-4o"
-MODEL_B = "anthropic/claude-sonnet-4-20250514"
+API_KEY = os.environ.get("OPENAI_API_KEY", "")
+MODEL_A = "gpt-4o"
+MODEL_B = "gpt-4o"
 MAX_TURNS = 10
 RETRY_ATTEMPTS = 3
 RETRY_DELAY = 2
@@ -33,10 +34,7 @@ def call_api(client, model, prompt):
                 raise e
 
 def run():
-    client = OpenAI(
-        api_key=API_KEY,
-        base_url="https://openrouter.ai/api/v1"
-    )
+    client = OpenAI(api_key=API_KEY)
     
     conv_id = f"conv_{uuid.uuid4().hex[:8]}"
     

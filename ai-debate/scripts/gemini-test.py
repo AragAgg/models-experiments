@@ -1,10 +1,11 @@
 import json
+import os
 import uuid
 import time
 from datetime import datetime
 import google.generativeai as genai
 
-API_KEY = ""
+API_KEY = os.environ.get("GOOGLE_API_KEY", "")
 MODEL_A = "gemini-2.0-flash"
 MODEL_B = "gemini-2.0-flash"
 MAX_TURNS = 10

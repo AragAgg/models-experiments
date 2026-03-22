@@ -1,0 +1,6 @@
+openai
+anthropic
+google-genai
+google-generativeai
+boto3
+pyyaml

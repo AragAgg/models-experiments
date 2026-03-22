@@ -11,6 +11,7 @@ Usage:
 """
 
 import json
+import os
 import threading
 import time
 from datetime import datetime
@@ -21,9 +22,9 @@ from models import call_model
 # API KEYS - Set these before running
 # =============================================================================
 API_KEYS = {
-    "openai": "sk-...",      # Your OpenAI API key
-    "anthropic": "sk-ant-...",  # Your Anthropic API key
-    "google": "...",         # Your Google AI API key
+    "openai": os.environ.get("OPENAI_API_KEY", ""),
+    "anthropic": os.environ.get("ANTHROPIC_API_KEY", ""),
+    "google": os.environ.get("GOOGLE_API_KEY", ""),
 }
 
 # =============================================================================
